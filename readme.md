@@ -1,5 +1,5 @@
 # Block chain
 ## Mining Strategies
-Selfish miner
-Majority miner
-FeeSnipping miner
+1. Majority miner
+2. Selfish miner
+3. FeeSnipping miner
