@@ -1,7 +1,7 @@
-package edu.nyu.crypto.csci3033.miners;
+package miners;
 
-import edu.nyu.crypto.csci3033.blockchain.Block;
-import edu.nyu.crypto.csci3033.blockchain.NetworkStatistics;
+import blockchain.Block;
+import blockchain.NetworkStatistics;
 
 public class CompliantMiner extends BaseMiner implements Miner {
     private Block currentHead;

@@ -1,4 +1,4 @@
-package edu.nyu.crypto.csci3033.blockchain;
+package blockchain;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package edu.nyu.crypto.csci3033.miners;
+package miners;
 
 import java.text.MessageFormat;
 

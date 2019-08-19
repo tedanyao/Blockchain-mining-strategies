@@ -1,6 +1,6 @@
-package edu.nyu.crypto.csci3033.blockchain;
+package blockchain;
 
-import edu.nyu.crypto.csci3033.miners.Miner;
+import miners.Miner;
 
 import java.util.Collection;
 

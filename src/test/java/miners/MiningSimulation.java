@@ -1,7 +1,7 @@
-package edu.nyu.crypto.csci3033.miners;
+package miners;
 
 import com.google.common.collect.ImmutableList;
-import edu.nyu.crypto.csci3033.blockchain.*;
+import blockchain.*;
 import org.fest.assertions.Assertions;
 import org.junit.Test;
 import org.slf4j.Logger;

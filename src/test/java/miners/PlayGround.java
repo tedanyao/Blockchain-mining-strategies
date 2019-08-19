@@ -1,4 +1,4 @@
-package edu.nyu.crypto.csci3033.miners;
+package miners;
 
 import org.apache.commons.math3.distribution.ExponentialDistribution;
 import org.junit.Test;
